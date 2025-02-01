@@ -2,3 +2,4 @@ Name: Justine Rei
 Section: BS INFO-1D
 Program: INFO TECH
 Address: Soledad
+Age: 28
